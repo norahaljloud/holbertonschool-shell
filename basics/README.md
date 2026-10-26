@@ -13,3 +13,4 @@
 - 10-back: Changes the working directory to the previous directory using cd -.
 - 11-lists: Lists hidden and visible contents of the current directory, its parent, and /boot in long format using ls -la.
 - 12-file_type: Prints the type of the /tmp/iamafile file using the file command.
+- 13-symbolic_link: Creates a symbolic link named __ls__ pointing to /bin/ls in the current working directory.
