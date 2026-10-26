@@ -4,3 +4,4 @@
 - 1-listit: Lists the contents of the current working directory.
 - 2-bring_me_home: Changes the working directory to the user's home directory using cd ~.
 - 3-listfiles: Displays the contents of the current working directory in long format using ls -l.
+- 4-listmorefiles: Displays all directory contents, including hidden files, in long format using ls -la.
