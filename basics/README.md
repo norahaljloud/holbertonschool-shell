@@ -8,3 +8,4 @@
 - 5-listfilesdigitonly: Lists all directory contents in long format, including hidden files, with numeric user and group IDs using ls -lan.
 - 6-firstdirectory: Creates the my_first_directory directory inside /tmp.
 - 7-movethatfile: Moves the betty file from /tmp to /tmp/my_first_directory.
+- 8-firstdelete: Deletes the betty file from /tmp/my_first_directory.
