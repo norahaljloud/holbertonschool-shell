@@ -12,3 +12,4 @@
 - 10-no_more_js: Deletes regular files ending in .js in the current directory and all its subdirectories.
 - 11-directories: Counts directories and subdirectories, including hidden directories, excluding the current and parent directory entries.
 - 12-newest_files: Displays the 10 newest files in the current directory, one per line, from newest to oldest.
+- 13-unique: Prints words that appear exactly once in the input, sorted alphabetically.
