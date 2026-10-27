@@ -4,3 +4,4 @@
 - 3-paths: Counts the non-empty directories listed in PATH.
 - 3-paths: Counts the non-empty directories listed in PATH.
 - 4-global_variables: Lists all environment variables using printenv.
+- 5-local_variables: Lists all local variables, environment variables, and shell functions using set.
