@@ -7,3 +7,4 @@
 - 4-empty: Creates an empty file named hello in the current working directory using touch.
 - 5-execute: Adds execute permission for the owner of the file hello using chmod u+x.
 - 6-multiple_permissions: Adds execute permission for the owner and group, and read permission for others, on hello.
+- 7-everybody: Adds execute permission for the owner group and other users on hello using chmod a+x.
