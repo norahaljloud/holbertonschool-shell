@@ -8,3 +8,4 @@
 - 5-execute: Adds execute permission for the owner of the file hello using chmod u+x.
 - 6-multiple_permissions: Adds execute permission for the owner and group, and read permission for others, on hello.
 - 7-everybody: Adds execute permission for the owner group and other users on hello using chmod a+x.
+- 8-James_Bond: Sets hello permissions to 007, giving all permissions to others and none to the owner or group.
