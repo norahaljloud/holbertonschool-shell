@@ -14,3 +14,4 @@
 - 11-directories_permissions: Adds execute permission for the owner, group, and others to all subdirectories of the current directory without changing regular files.
 - 12-directory_permissions: Creates a directory named my_dir with permissions 751 using mkdir -m.
 - 13-change_group: Changes the group owner of the file hello to school using chown.
+- 14-change_owner_and_group: Changes the owner to vincent and group owner to staff for all non-hidden files and directories in the current working directory.
