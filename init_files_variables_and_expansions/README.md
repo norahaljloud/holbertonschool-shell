@@ -10,3 +10,4 @@
 - 8-true_knowledge: Adds 128 to the value stored in the TRUEKNOWLEDGE environment variable and prints the result.
 - 9-divide_and_rule: Divides the POWER environment variable by DIVIDE and prints the result.
 - 10-love_exponent_breath: Raises the BREATH environment variable to the power of LOVE and prints the result.
+- 11-binary_to_decimal: Converts the BINARY environment variable from base 2 to base 10 and prints the result.
