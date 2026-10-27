@@ -7,3 +7,4 @@
 - 5-local_variables: Lists all local variables, environment variables, and shell functions using set.
 - 6-create_local_variable: Creates a local variable named BEST with the value School.
 - 7-create_global_variable: Creates a global environment variable named BEST with the value School.
+- 8-true_knowledge: Adds 128 to the value stored in the TRUEKNOWLEDGE environment variable and prints the result.
