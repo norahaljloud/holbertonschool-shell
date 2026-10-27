@@ -6,3 +6,4 @@
 - 3-new_owner: Changes the owner of the file hello to the user betty using chown.
 - 4-empty: Creates an empty file named hello in the current working directory using touch.
 - 5-execute: Adds execute permission for the owner of the file hello using chmod u+x.
+- 6-multiple_permissions: Adds execute permission for the owner and group, and read permission for others, on hello.
