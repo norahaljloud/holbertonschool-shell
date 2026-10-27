@@ -11,3 +11,4 @@
 - 8-James_Bond: Sets hello permissions to 007, giving all permissions to others and none to the owner or group.
 - 9-John_Doe: Sets the permissions of hello to 753, giving the owner rwx, the group r-x, and others -wx.
 - 10-mirror_permissions: Sets the permissions of hello to match the permissions of olleh using chmod --reference.
+- 11-directories_permissions: Adds execute permission for the owner, group, and others to all subdirectories of the current directory without changing regular files.
